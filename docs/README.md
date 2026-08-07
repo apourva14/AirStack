@@ -3,6 +3,7 @@
 <div align="center">
   <img src="assets/logo_horizontal_color.png" alt="AirStack Logo" width="400"/>
 </div>
+
 ## Apurva Singh — GPS Degradation Research (AirLab, CMU)
 
 ### What I worked on
