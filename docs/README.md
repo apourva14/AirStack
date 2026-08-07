@@ -3,7 +3,19 @@
 <div align="center">
   <img src="assets/logo_horizontal_color.png" alt="AirStack Logo" width="400"/>
 </div>
+## Apurva Singh — GPS Degradation Research (AirLab, CMU)
 
+### What I worked on
+Brief description of the satellite/GNSS degradation pipeline you built — 
+LOS blockage, shadowing, multipath modeling, VIO evaluation under degraded GPS
+
+### Branch
+All my work lives in `apurva/satellite`
+
+### Key contributions
+- Designed simulator-side GPS degradation pipeline (healthy/degraded/denied/recovery regimes)
+- Mapped VIO estimator requirements to AirStack ROS2/PX4 stack
+- Integrated with Isaac Sim / AirStack for realistic navigation condition testing
 AirStack is a comprehensive, modular autonomy stack for embodied AI and robotics developed by the [AirLab](https://theairlab.org) at Carnegie Mellon University's Robotics Institute. It provides a complete framework for developing, testing, and deploying autonomous mobile systems in both simulated and real-world environments.
 
 [![GitHub](https://img.shields.io/github/license/castacks/AirStack)](https://github.com/castacks/AirStack/blob/main/LICENSE)
